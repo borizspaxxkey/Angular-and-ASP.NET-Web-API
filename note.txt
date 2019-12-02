@@ -1,0 +1,17 @@
+ Token is a piece of data which is created by a server, in our case, the Web API, and this piece of data contains enough data to identify a user.
+
+
+JWT Package and this package is going to contain our Token string, and the Username
+
+Token Handler which is a library used to create, serialize, and validate Jason Web Tokens.
+
+Authentication via Tokens
+1. Get Token
+2. Store Token
+3. Check Token
+
+Login Implementation
+1. Create a Component
+2. Add the component to the router
+3. Design the view
+4. Send a request
